@@ -1,0 +1,2636 @@
+<!DOCTYPE html>
+<!-- saved from url=(0165)http://exam.chinaedu.net/oxer/page/ots/UniversityStart.html?arrangementId=2b2aa72f-4257-47c1-825e-e5dc3d4fcd1f&externalUrl=&userId=9179310493&timestamp=1525164717000 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>开始作答 </title>
+		<link rel="stylesheet" type="text/css" href="./开始作答_files/StuDefaultreset.css">
+		<link rel="stylesheet" type="text/css" href="./开始作答_files/StuDefaultpublic_jlu.css">
+		<link rel="stylesheet" type="text/css" href="./开始作答_files/StuDefaultdialogUni.css">
+		<link rel="stylesheet" type="text/css" href="./开始作答_files/StuDefaultUniHeader.css">
+		<link rel="stylesheet" type="text/css" href="./开始作答_files/ConnectionErrorTip.css">
+		<!-- 弹框提示 -->
+    	<link rel="stylesheet" href="./开始作答_files/AllTipDialog.css">
+		<link rel="stylesheet" type="text/css" href="./开始作答_files/stuThemeByDefault.css" ty="theme">
+	<style id="avalonStyle">.avalonHide{ display: none!important }</style><link rel="stylesheet" type="text/css" href="./开始作答_files/stuThemeByDefault.css" ty="theme"></head>
+    <body>
+		<div class="uniHead uniHead-bgc">
+			<div class="headimg headimg-bg none"></div>
+		</div>
+		<div class="unibody unibody-bgc">
+			<div class="uniContent">
+				<div class="ConLeft bgc-conLeft">
+					<div class="testTitle c-title">
+						<div class="paperName">大学英语（三）第一阶段</div>
+						<div class="paperType c-paperType"></div>
+						<div class="isShowAns none c-isShowAns"><a>显示答案</a></div>
+						<div class="titlBotom"></div>
+					</div>
+					<!--ms-repeat-start--><div class="uniQueList">
+						<!--ms-if-->
+						<div>
+							<div class="uniStruc">
+								<span class="fir">一、完形填空</span>
+								<span class="UniisShow">(</span> 
+								<span class="UniEaScore none">每题10分</span>
+								<span class="UniToCount none">共2道小题</span>
+								<span class="UniToScore none">总分值20分</span>
+								<span class="UniToComment"></span> 
+								<span class="UniisShow">)</span>
+							</div>
+							
+						</div>
+						<!--ms-repeat-start--><div>
+							<!-- 单选题 -->
+							<!--ms-if-->
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<div class="uniQueItem" lqueid="fb280d8b-be7c-48f7-af8a-c8735cc75614" ansmodel="Composite">
+								<div class="QueStem c-8c8">1.<p class="suojin">My mother used to ask me what is the most important part of the body. Through the years I would _1___the correct answer. When I was younger, I thought _2___ was very important to us as humans , so I said, “My ears, Mummy.” She said, “No. Many people are _3_____ . But you keep thinking about it and I will ask you again soon.</p><p class="suojin">Several years passed before she asked me again. Since making my first _4____, I had often thought over the question. So this time I told her, “Mummy, it must be our eyes.” She looked at me and said, “You are _5____ fast, but the answer is not correct because there are many people who are blind.”</p><p class="suojin">___6____the years, mother asked me a couple more _7_____and always her response to my answers was, “No, but you are getting _8____ every year, my child.” Then last year, my Grandpa _9_____. Everybody was heart-broken. Everybody was crying. My mum looked at me when it was our _10____ to say our final good-bye to Grandpa. She asked me, “Do you know the most important body part yet, my dear?”</p><p>I was __11____ when she was asking me this now. I always thought this was a _12____between her and me. She saw the _13____ on my face and told me, “This question is very important. It show that you have really _14___ your life.” I saw her eyes well up with tears. She said, “My dear, the most important body part is your __15____.” I asked, “Is it because they hold up your head?” She replied , “No, it is _16____ on them a crying friend or loved one can rest their head. I only hope that you have enough _17____ and friends that you will have a shoulder to cry __18____ when you need it” Then and there I understood the most important body part is not a __19___one. It is sympathetic to the pain of __20____.</p><span class="sScore c-4ea6d6">(10分)</span></div>
+								<!--ms-repeat-start--><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="981bb877-e0c6-44f8-bac3-819e40da41a7" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(1)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> notice</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> believe in </span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> doubt </span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> guess at</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="6f3cfb3f-1fd7-4029-84f7-7ac3469892e4" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(2)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> love</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> health</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> sound</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> sight</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="45ff4608-5d11-4ed3-9d62-b2fe2350bac7" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(3)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> blind</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> deaf</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> invisible</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> thoughtful</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="5e9a0d9f-0a64-4b0b-98fc-c90c4553a21b" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(4)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> discovery</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> decision</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> attempt</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> suggestion</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="081e8f88-577e-48b1-933a-01ad078dc7b0" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(5)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> learning</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> thinking </span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> growing</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> changing</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="9a0f55ea-770e-4929-8d09-8083c36e61df" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(6)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> Before</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> Till</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> Beyond</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> Over</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="77673d28-c203-4245-9ff9-942a8277b16c" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(7)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> way</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> things</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> questions</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> times</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="62ec3e9b-d700-4781-93e3-05167ecb3b7e" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(8)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> stronger</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> taller</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> smarter</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> nicer</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="eaff5d94-20b5-4f58-8684-48deb7acdc45" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(9)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> left</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> got ill</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> died</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> got wounded</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="c074c3e8-326d-4193-a645-d01a1f2a7c0c" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(10)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> duty</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> turn</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> pity</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> chance</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="4b9878b6-0d91-4f67-90b2-9369c1bb2a64" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(11)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> shocked</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> satisfied</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> interested</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> excited</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="e40ce44b-ca3d-4566-8869-089dbd9b4ead" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(12)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> game</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> test</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> match</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> secret</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="70d44a7c-253a-4493-a362-d73f23ca9eb6" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(13)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> worry</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> puzzlement</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> regret</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> pain</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="1c86efd3-a61c-4265-b35f-bf4b66440614" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(14)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> enjoyed</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> found</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span>disliked</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> lived</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="4e6bf4a8-3e1a-4e42-a22b-4fafb11a7662" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(15)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> shoulders</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> feet</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> hands</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> hair</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="8e5523fd-9f3c-4e9f-9463-19e3f6a80e3c" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(16)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> how</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> because</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> why</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> whether</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="4e5f184d-81db-40e6-ab92-ae21cf075745" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(17)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> respect</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> favour</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> love</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> fun</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="9edf1da1-406a-412a-bb96-e75049fdd87b" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(18)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> by</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> on</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> above</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> for</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="075c23b9-c940-42cf-a2b9-499e3234c28f" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(19)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> valuable</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> useful</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> selfish</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> precious</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="fb280d8b-be7c-48f7-af8a-c8735cc75614" lqueid="b1064bb7-ba2e-45f1-aa47-86e1ac571bf3" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(20)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> others</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> the deaf</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> Grandpa</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> the blind</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><!--ms-repeat-end-->
+								<div class="impeach impeach-bg c-impeach" limpeachqueid="fb280d8b-be7c-48f7-af8a-c8735cc75614">是否存疑</div>		
+							</div>
+						</div><div>
+							<!-- 单选题 -->
+							<!--ms-if-->
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<div class="uniQueItem" lqueid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" ansmodel="Composite">
+								<div class="QueStem c-8c8">2.<p class="suojin">Have you <span style="text-decoration: underline;">1</span>asked yourself why children go to school? You will probably say that they go <span style="text-decoration: underline;">2</span>their own language and other languages, arithmetic, history, science and <span style="text-decoration: underline;">3</span>subjects. That is quite true; but why do they learn these things? And are these things <span style="text-decoration: underline;">4</span>that they learn at school?</p><p class="suojin">We <span style="text-decoration: underline;">5</span>our children to school to <span style="text-decoration: underline;">6</span>them for the time&nbsp;<span style="text-decoration: underline;">7</span> they will be big and will have to work <span style="text-decoration: underline;">8</span>themselves. Nearly all they study at school has some&nbsp;&nbsp; <span style="text-decoration: underline;">9</span>use in their life, but is that the only reason&nbsp;<span style="text-decoration: underline;">10</span> they go to school?</p><p>There is <span style="text-decoration: underline;">11 </span>in education than just learning facts. We go to school&nbsp;<span style="text-decoration: underline;">12</span>&nbsp;&nbsp;all to learn how to learn, <span style="text-decoration: underline;">13</span>when we have <span style="text-decoration: underline;">14</span>school we can continue to learn. A man who really knows<span style="text-decoration: underline;">&nbsp;&nbsp;15</span>will always be successful , because<span style="text-decoration: underline;"> 16</span>he has to do something new which he has never had to do<span style="text-decoration: underline;"> 17</span>, he will rapidly teach himself how to do it in the best&nbsp;<span style="text-decoration: underline;">18 .</span> The uneducated person, <span style="text-decoration: underline;">19</span>, is probably unable to do something new, or does it badly. The purpose of schools, therefore, is not just to teach languages, arithmetic, etc.,<span style="text-decoration: underline;">&nbsp;&nbsp;20</span>to teach pupils the way to learn.</p><span class="sScore c-4ea6d6">(10分)</span></div>
+								<!--ms-repeat-start--><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="fd93a965-fe13-4852-8b9a-dbe68364237a" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(1)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span>Either</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> once&nbsp;</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span>ever	</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> then</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="cb854156-89de-4024-b93d-77d96ccc4cc0" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(2)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span>learn&nbsp;</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>to learn&nbsp;&nbsp;</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span>learning &nbsp;</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span>and to learn</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="fb00931d-bee5-4d5e-8ede-3bdf43d87669" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(3)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> all another </span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>the other all </span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> all the other</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> the all other</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="2f8fe735-a7bd-49c8-886a-4fdb95a1ba3b" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(4)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span>those </span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>ones </span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span>anything&nbsp;&nbsp;</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> all</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="87de6021-acc5-4d96-b324-bec65e521c79" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(5)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span>send  </span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>present  </span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span>appoint&nbsp; </span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> select</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="30564567-37ea-4314-98af-ac9b84366a3c" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(6)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span>rely &nbsp;&nbsp;&nbsp;    </span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>prepare  </span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span>make&nbsp;&nbsp;&nbsp; </span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> get</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="e9cdc5ec-cfd3-4eb9-bfde-b185bf7810c0" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(7)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span>which  </span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>when  </span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span>while  </span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> as</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="7727092a-db42-4f22-87d4-31dcfa27507b" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(8)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span>or  </span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>on </span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span>with  </span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> to</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="c7d5104e-fa5f-45e3-869f-905647808ac0" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(9)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> true </span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>fortunate&nbsp; </span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span>lucky&nbsp; </span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> practical</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="17fa6087-d5c5-4962-9ba1-34ded40aec4f" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(10)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> why </span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>which </span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> because&nbsp;&nbsp; </span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> what</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="a3f13615-f3a1-4f73-a89a-76a6c7a57398" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(11)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> much </span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>most  </span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> a lot </span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> more</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="0bb757f4-12c3-4077-bf8b-b8ca62eb0b7e" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(12)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> above&nbsp;</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> over </span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> on</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> in</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="c63fb286-686e-4d69-8c74-9694b9498c6f" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(13)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> so as</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> and that&nbsp;&nbsp;</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span>so that&nbsp;</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span>such that</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="ee94bbb0-2695-463c-8596-a29f90176227" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(14)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> remained </span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>left </span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> got out&nbsp;&nbsp;</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> sent</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="c1fa8dd8-7782-4494-8715-74c249833e87" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(15)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> how earned</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> how to learn</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> to how learn</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> how learning</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="42c6bcf2-5e16-4b97-8438-54b1d4d453db" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(16)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> whenever </span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> whichever</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> whatever </span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> however</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="43c42640-256d-49dc-874d-ea34887fad7c" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(17)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> ago </span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> later </span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> before</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span>after</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="b080e134-ee63-45ef-9281-b0e30e78f8fb" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(18)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> path</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> course</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> road</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> way</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="7ae4fe22-355e-4877-8473-942305983f43" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(19)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> on another hand</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> on other hand </span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> on the other hands</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> on the other hand</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" lqueid="94157e8b-fcb3-444a-aa25-68fe875b9112" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(20)<span class="sScore c-4ea6d6">(0.5分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> and</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> that </span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> but</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> so</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><!--ms-repeat-end-->
+								<div class="impeach impeach-bg c-impeach" limpeachqueid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1">是否存疑</div>		
+							</div>
+						</div><!--ms-repeat-end-->
+					</div><div class="uniQueList">
+						<!--ms-if-->
+						<div>
+							<div class="uniStruc">
+								<span class="fir">二、阅读理解</span>
+								<span class="UniisShow">(</span> 
+								<span class="UniEaScore none">每题10分</span>
+								<span class="UniToCount none">共2道小题</span>
+								<span class="UniToScore none">总分值20分</span>
+								<span class="UniToComment"></span> 
+								<span class="UniisShow">)</span>
+							</div>
+							
+						</div>
+						<!--ms-repeat-start--><div>
+							<!-- 单选题 -->
+							<!--ms-if-->
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<div class="uniQueItem" lqueid="04bd53d5-0f87-4db3-9e44-7146e0158744" ansmodel="Composite">
+								<div class="QueStem c-8c8">1.<p class="suojin"><span>Our family is trying to decide where to go for our vacation this summer. Our son, Tom, wants to go to Yellow Stone Park again to see the bears. We did that last summer and what an experience it was! When we got there, we put up our tent and went to explore. As we returned, we heard our daughter Susie cry out and then we saw a bear enter our camp. Tom wanted his father to chase him away. His father said, "No, it's dangerous to chase a bear, and don't let him chase you!" Susie said"What shall we do? Maybe we ought to climb a tree." Tom said, "No, we've got to get him out of there. He might go to sleep in our tent." "Maybe we could make him leave if we put some honey outside for him to eat." Susie suggested. Then I said, "How are you going to get the honey? It's in the tent."</span></p><p><span>    We watched the bear enter the tent and heard him upset everything inside. "It's foolish for us to try to catch him," said my husband, "leave him alone and wait for him to come out." We waited, but the bear stayed inside. We had to sleep in the car.</span></p><span class="sScore c-4ea6d6">(10分)</span></div>
+								<!--ms-repeat-start--><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="04bd53d5-0f87-4db3-9e44-7146e0158744" lqueid="7111a177-9097-4b7b-b12c-65d5d0525dd8" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(1)The family have decided to go camping in the vacation this summer.<span class="sScore c-4ea6d6">(2分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span>T</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>F</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="04bd53d5-0f87-4db3-9e44-7146e0158744" lqueid="abf5915f-e30f-4cd4-b2d3-36faec250024" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(2)Susie saw the bear first.<span class="sScore c-4ea6d6">(2分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span>T</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>F</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="04bd53d5-0f87-4db3-9e44-7146e0158744" lqueid="cb5475ab-f802-4990-a4ee-ed69bebf8f68" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(3)They chased the bear away when they saw a bear enter their tent.<span class="sScore c-4ea6d6">(2分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span>T</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>F</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="04bd53d5-0f87-4db3-9e44-7146e0158744" lqueid="586bf005-e56e-4041-8a11-5d4bb301e2b4" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(4)The bear drank the beer in the tent.<span class="sScore c-4ea6d6">(2分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span>T</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>F</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="04bd53d5-0f87-4db3-9e44-7146e0158744" lqueid="3ba2b49d-e1c5-4a49-b246-a7c806c0e4f2" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(5)Tom wanted to go to Yellow Stone Park to see wolves.<span class="sScore c-4ea6d6">(2分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span>T</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>F</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><!--ms-repeat-end-->
+								<div class="impeach impeach-bg c-impeach" limpeachqueid="04bd53d5-0f87-4db3-9e44-7146e0158744">是否存疑</div>		
+							</div>
+						</div><div>
+							<!-- 单选题 -->
+							<!--ms-if-->
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<div class="uniQueItem" lqueid="cd0ee797-8a80-4a3e-bb34-eb0e9be73ccb" ansmodel="Composite">
+								<div class="QueStem c-8c8">2.<p class="suojin"><span>Ever since humans have inhabited the earth, they have made use of various forms of communication. Generally, this expression of thoughts and feelings has been in the form of oral speech. When there is a language barrier, communication is accomplished through sign language in which motions stand for letters, words and ideas. Tourists, the deaf, and the mute have had to resort to this form of expression. Many of these symbols of whole words are very picturesque and exact and can be used internationally; spelling, however, cannot. Body language transmits ideas or thoughts by certain actions, either intentionally or unintentionally.. A wink can be a way of flirting or indicating that the party is only joking. A nod signifies approval, while shaking the head indicates a negative reaction.</span></p><p><span>   Other forms of nonlinguistic language can be found in Braille ( a system of raised dots read with the fingertips), signal flags, ,Morse code, and smoke signals. Road maps and picture signs also guide, warn, and instruct people. While verbalization is the most common form of language, other systems and techniques also express human thoughts and feelings. </span></p><span class="sScore c-4ea6d6">(10分)</span></div>
+								<!--ms-repeat-start--><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="cd0ee797-8a80-4a3e-bb34-eb0e9be73ccb" lqueid="8c37f328-3dc5-45c7-afcf-9e0ba25625b7" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(1)Which of the following best summarize this passage?<span class="sScore c-4ea6d6">(2分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> When language is a barrier, people will find other forms of communication</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> Everybody uses only one form of communication.</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> Nonlinguistic language is invaluable to foreigners</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> Although other forms of communication exist, verbalization is the fastest</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="cd0ee797-8a80-4a3e-bb34-eb0e9be73ccb" lqueid="fc63bd84-14c5-4f60-8fea-51cb7fbabef3" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(2)Which of the following statements is NOT true according to the passage?<span class="sScore c-4ea6d6">(2分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> There are many forms of communication in existence today</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>Verbalization is the most common form of communication</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> The deaf andmute do not need sign language for communication</span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> Ideas and thoughts can be transmitted by language</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="cd0ee797-8a80-4a3e-bb34-eb0e9be73ccb" lqueid="b5e6cd70-1493-451d-9a23-85991d570d2b" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(3)Which form other than oral speech would be most commonly used among blind people?<span class="sScore c-4ea6d6">(2分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span>Picture sign</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>Braille  </span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> Body language </span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> Signal flags</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="cd0ee797-8a80-4a3e-bb34-eb0e9be73ccb" lqueid="c01b576f-16c6-4fd7-afe8-69cc9b970580" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(4)How many different forms of communication are mentioned here?<span class="sScore c-4ea6d6">(2分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span>2-4</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span>5-7</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span>8-10 </span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> over 10</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><div class="ComPositeItem">
+									<!--复合》》》 单选题 -->
+									<div>
+										<div class="subsingItem subItem" parid="cd0ee797-8a80-4a3e-bb34-eb0e9be73ccb" lqueid="7791919c-06e8-4dbe-a718-bc0c8981ec94" ansmodel="SingleSelection">
+											<div class="QueStem c-8c8">(5)Sign language is said to be very picturesque and exact and can be used internationally as it doesn’t represent _____________.<span class="sScore c-4ea6d6">(2分)</span></div>
+											<ul class="subsing">
+												<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+													A. <span> Spellings</span>
+												</li><li class="liSing-bg" ansid="1">
+													B. <span> whole words</span>
+												</li><li class="liSing-bg" ansid="2">
+													C. <span> ideas </span>
+												</li><li class="liSing-bg" ansid="3">
+													D. <span> feelings</span>
+												</li><!--ms-repeat-end-->
+											</ul>
+													
+										</div>
+										<div class="ansAndsolv c-ansAndsolv none">
+											<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+											<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+										</div>
+									</div>
+									<!--复合》》》 多选题 -->
+									<!--ms-if-->
+									<!--复合》》》 填空题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断题 -->
+									<!--ms-if-->
+									<!--复合》》》 判断改错题 -->
+									<!--ms-if-->
+									<!--复合》》》 问答题 -->
+									<!--ms-if-->
+								</div><!--ms-repeat-end-->
+								<div class="impeach impeach-bg c-impeach" limpeachqueid="cd0ee797-8a80-4a3e-bb34-eb0e9be73ccb">是否存疑</div>		
+							</div>
+						</div><!--ms-repeat-end-->
+					</div><div class="uniQueList">
+						<!--ms-if-->
+						<div>
+							<div class="uniStruc">
+								<span class="fir">三、词汇与结构</span>
+								<span class="UniisShow">(</span> 
+								<span class="UniEaScore none">每题3分</span>
+								<span class="UniToCount none">共20道小题</span>
+								<span class="UniToScore none">总分值60分</span>
+								<span class="UniToComment"></span> 
+								<span class="UniisShow">)</span>
+							</div>
+							
+						</div>
+						<!--ms-repeat-start--><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="3b609f4b-bdc0-4ecf-9f2d-455882fad6f2" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">1.Social Media is about how you use it to _____________ your relationships with other people in real life.<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> find</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> enhance</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> build</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> make</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="3b609f4b-bdc0-4ecf-9f2d-455882fad6f2">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="b04e8ae9-02fb-452b-a0b6-28a069aa8297" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">2.<p><span>These games allow gamers to</span><span style="text-decoration:underline;">_____________</span><span> with each other and play with or against other gamers.</span></p><span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span>interact </span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span>influence</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span>fight</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span>meet</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="b04e8ae9-02fb-452b-a0b6-28a069aa8297">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="66dbcb70-cbb4-48e5-bb86-54bdc4dddbbc" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">3.So why do we order with more reckless __________when we're using our smartphones and laptops?<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> food</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> drinks	</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> snacks	</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> abandon</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="66dbcb70-cbb4-48e5-bb86-54bdc4dddbbc">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="ce3a45f4-f781-4e8e-99a1-5ec9a36e607d" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">4.By the time we arrived at the airport, the rain ________already______.<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> has …stopped</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> had… stopped</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> /…stopped</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> / … stops</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="ce3a45f4-f781-4e8e-99a1-5ec9a36e607d">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="7dec7336-b7d8-4aac-bbd1-7575b23bb128" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">5.The Internet enables us to ________ the world without leaving home.<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> register</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> explore</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> secure</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> conduct</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="7dec7336-b7d8-4aac-bbd1-7575b23bb128">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="3261a161-e7d1-4318-9e11-8a0d12121c0c" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">6.Since China has entered the WTO, the _______ on foreign businesses will gradually be reduced.<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> restrictions</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> access</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> exchange</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> opportunity</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="3261a161-e7d1-4318-9e11-8a0d12121c0c">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="4ad2825a-43a5-4234-8994-2d55c9dfc7c7" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">7.The computer is very useful because it is able to store ____________.<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> much information</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> a number of informations</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> many informations</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> a lot information</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="4ad2825a-43a5-4234-8994-2d55c9dfc7c7">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="30d981ef-ba0b-4c7c-8bb2-33c280eac23f" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">8.Bob took a part-time job ________ handbills for a cosmetic company.<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> checking out</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> setting up</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> putting down</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> giving out</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="30d981ef-ba0b-4c7c-8bb2-33c280eac23f">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="a0ba4839-98b8-42f7-99c8-4987590f32a7" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">9.Ordering food online might be_________and faster, but it’s not great for our health.<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> useful</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> new</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> convenient</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> waste</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="a0ba4839-98b8-42f7-99c8-4987590f32a7">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="a6bb5389-7643-43dc-b5e6-8cf72e14e355" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">10.Unlike desktops, smartphones and tablets offer limited space and may ________to a customer being less thorough about exploring the menu.<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> explain</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> tell</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> contribute</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> cause</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="a6bb5389-7643-43dc-b5e6-8cf72e14e355">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="3901fcc5-9b1b-427a-b3bd-abae6168f88e" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">11.Most of the junk foods are__________ and easy to snack on foods, while they hit the bottom low with their nutritional factor.<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> delicious</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> helpful	</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> useful</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> nutritious</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="3901fcc5-9b1b-427a-b3bd-abae6168f88e">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="d8cfc4e3-5b76-4824-a836-2ba49254a3ac" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">12.According to Wikipedia, social media has been defined to be “a group of Internet-based __________________.<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> facilities</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> applications	</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> systems</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> principles</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="d8cfc4e3-5b76-4824-a836-2ba49254a3ac">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="9fa3c327-9cfd-4feb-a68b-b3492cb1ee18" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">13.We tend to get ___________ by their numbers game, thinking of more updates, more friends, more followers, more links, more photos, more everything.<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> information	</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> distracted</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> absorbing</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> excitement</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="9fa3c327-9cfd-4feb-a68b-b3492cb1ee18">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="e16cd46d-7a45-4aa2-bdae-6a553b0befa1" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">14.I’d _______ it if you would turn the radio down.<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> amuse</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> undertake </span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> appreciate</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> suspect</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="e16cd46d-7a45-4aa2-bdae-6a553b0befa1">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="16dab218-426b-427b-a03f-0ea7af0589b5" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">15.These types of media often involve the ____________ and sharing of content (writing, pictures, and video) that people make themselves, mostly through the Internet.<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> creative</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> creating</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> creation</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> creativity</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="16dab218-426b-427b-a03f-0ea7af0589b5">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="40893b98-e970-443a-95a1-6beea9b44036" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">16.The plane _______ take off at 8:30 a.m. has been delayed because of thick fog.<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> due to</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> already</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> far from</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> so far</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="40893b98-e970-443a-95a1-6beea9b44036">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="90ca0fb5-a605-4a9c-b577-e0ae746c74ac" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">17.So, social media is just any Internet _________that can be used to share information with others.<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> tool</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> way</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> medium</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> trick</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="90ca0fb5-a605-4a9c-b577-e0ae746c74ac">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="6a764c02-2dac-417b-a9b5-4e6001b8a57b" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">18.The invention of the telephone was a great _______ to human communication.<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> stress</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> inquiry</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> intention</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> contribution</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="6a764c02-2dac-417b-a9b5-4e6001b8a57b">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="5011fc93-eea7-4bfd-97fc-0b758d13eb1a" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">19.Everyone of us ______ tired and wanted a good rest<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> seem</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> was seemed</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> seems</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> seemed</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="5011fc93-eea7-4bfd-97fc-0b758d13eb1a">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><div>
+							<!-- 单选题 -->
+							<div>
+								<div class="uniQueItem singItem examSing" lqueid="d82a76cf-7ab6-4e91-a074-7b1d887a2810" ansmodel="SingleSelection">
+									<div class="QueStem c-8c8">20.Take this medicine, _____ you will not recover.<span class="sScore c-4ea6d6">(3分)</span></div>
+									<ul class="sing c-8c8">
+										<!--ms-repeat-start--><li class="liSing-bg" ansid="0">
+											A. <span> and</span>
+										</li><li class="liSing-bg" ansid="1">
+											B. <span> so</span>
+										</li><li class="liSing-bg" ansid="2">
+											C. <span> or</span>
+										</li><li class="liSing-bg" ansid="3">
+											D. <span> because</span>
+										</li><!--ms-repeat-end-->
+									</ul>
+									<div class="impeach impeach-bg c-impeach" limpeachqueid="d82a76cf-7ab6-4e91-a074-7b1d887a2810">是否存疑</div>		
+								</div>
+								<div class="ansAndsolv c-ansAndsolv none">
+									<div class="ansSolvLine"><span class="stem">答案:</span><span></span></div>
+									<div class="ansSolvLine"><span class="stem">解析:</span><span></span></div>
+								</div>
+							</div>
+							<!-- 多选题 -->
+							<!--ms-if-->
+							<!-- 填空题 -->
+							<!--ms-if-->
+							<!-- 判断题 -->
+							<!--ms-if-->
+							<!-- 判断改错题 -->
+							<!--ms-if-->
+							<!-- 问答题 -->
+							<!--ms-if-->
+							<!--ms-if-->
+						</div><!--ms-repeat-end-->
+					</div><!--ms-repeat-end-->
+					
+				</div>
+				<div class="ConRight">
+					<div class="saveAndSubBtn">
+						<a class="floatBtnTem bg-temporary">暂时保存</a>
+			           	<a class="floatBtnSubMit">我要交卷</a>
+					</div>
+					<div class="Timer Timer-bg none">
+						<span class="sDateUp c-666">倒计时</span>
+						<span class="sDate c-ff6600"></span>
+					</div>
+					<div class="nav_mark bgc-navMark">
+						<ul>
+							<li class="na_isans bgc-naIsans"></li><span>已答</span>
+							<li class="na_noans bgc-naNoans"></li><span>未答</span>
+						</ul>
+					</div>
+					<div class="Timerbottom none"></div>
+					<div class="navigationItem bgc-fff">
+						<!--ms-repeat-start--><div>
+							<div class="ComStru c-comStru">完形填空</div>
+							<!--ms-if-->
+							<ul class="clearfix">
+								<!--ms-repeat-start--><li class="li-bg" rqueid="fb280d8b-be7c-48f7-af8a-c8735cc75614" sequence="1">1</li><li class="li-bg" rqueid="7bf1c310-21b9-4c88-a81f-5fa5f807e6b1" sequence="2">2</li><!--ms-repeat-end-->
+							</ul>
+						</div><div>
+							<div class="ComStru c-comStru">阅读理解</div>
+							<!--ms-if-->
+							<ul class="clearfix">
+								<!--ms-repeat-start--><li class="li-bg" rqueid="04bd53d5-0f87-4db3-9e44-7146e0158744" sequence="1">1</li><li class="li-bg" rqueid="cd0ee797-8a80-4a3e-bb34-eb0e9be73ccb" sequence="2">2</li><!--ms-repeat-end-->
+							</ul>
+						</div><div>
+							<div class="ComStru c-comStru">词汇与结构</div>
+							<!--ms-if-->
+							<ul class="clearfix">
+								<!--ms-repeat-start--><li class="li-bg" rqueid="3b609f4b-bdc0-4ecf-9f2d-455882fad6f2" sequence="1">1</li><li class="li-bg" rqueid="b04e8ae9-02fb-452b-a0b6-28a069aa8297" sequence="2">2</li><li class="li-bg" rqueid="66dbcb70-cbb4-48e5-bb86-54bdc4dddbbc" sequence="3">3</li><li class="li-bg" rqueid="ce3a45f4-f781-4e8e-99a1-5ec9a36e607d" sequence="4">4</li><li class="li-bg" rqueid="7dec7336-b7d8-4aac-bbd1-7575b23bb128" sequence="5">5</li><li class="li-bg" rqueid="3261a161-e7d1-4318-9e11-8a0d12121c0c" sequence="6">6</li><li class="li-bg" rqueid="4ad2825a-43a5-4234-8994-2d55c9dfc7c7" sequence="7">7</li><li class="li-bg" rqueid="30d981ef-ba0b-4c7c-8bb2-33c280eac23f" sequence="8">8</li><li class="li-bg" rqueid="a0ba4839-98b8-42f7-99c8-4987590f32a7" sequence="9">9</li><li class="li-bg" rqueid="a6bb5389-7643-43dc-b5e6-8cf72e14e355" sequence="10">10</li><li class="li-bg" rqueid="3901fcc5-9b1b-427a-b3bd-abae6168f88e" sequence="11">11</li><li class="li-bg" rqueid="d8cfc4e3-5b76-4824-a836-2ba49254a3ac" sequence="12">12</li><li class="li-bg" rqueid="9fa3c327-9cfd-4feb-a68b-b3492cb1ee18" sequence="13">13</li><li class="li-bg" rqueid="e16cd46d-7a45-4aa2-bdae-6a553b0befa1" sequence="14">14</li><li class="li-bg" rqueid="16dab218-426b-427b-a03f-0ea7af0589b5" sequence="15">15</li><li class="li-bg" rqueid="40893b98-e970-443a-95a1-6beea9b44036" sequence="16">16</li><li class="li-bg" rqueid="90ca0fb5-a605-4a9c-b577-e0ae746c74ac" sequence="17">17</li><li class="li-bg" rqueid="6a764c02-2dac-417b-a9b5-4e6001b8a57b" sequence="18">18</li><li class="li-bg" rqueid="5011fc93-eea7-4bfd-97fc-0b758d13eb1a" sequence="19">19</li><li class="li-bg" rqueid="d82a76cf-7ab6-4e91-a074-7b1d887a2810" sequence="20">20</li><!--ms-repeat-end-->
+							</ul>
+						</div><!--ms-repeat-end-->
+					</div>
+					
+					<div class="openclose openclose-bg">
+                    	<a href="javascript:;">试题导航收起</a>
+                	</div>
+                	<div class="isShowBtn c-fff none">
+                    	<a class="BtnTem bg-temporary">暂时保存</a>
+                    	<a class="BtnSubMit">我要交卷</a>
+                	</div>
+				</div>
+			</div>
+		</div>
+		<a href="http://exam.chinaedu.net/oxer/page/ots/UniversityStart.html?arrangementId=2b2aa72f-4257-47c1-825e-e5dc3d4fcd1f&amp;externalUrl=&amp;userId=9179310493&amp;timestamp=1525164717000#" class="go-top none" style="display: inline;"></a>
+		<!-- 
+		<div  class="floatBtn" >
+			<a class="floatBtnTem bg-temporary none">暂时保存</a>
+           	<a class="floatBtnSubMit">我要交卷</a>
+		</div>
+		 -->
+		<!--当接口返回错误信息的时候弹出错误信息页-->
+		<div id="msgBox" class="pop pop-small none" style="position: absolute; z-index: 99;">
+		    <div class="pop-shadow">
+		        <div class="pop-box p-warning">
+		            <h4 class="pop-title">
+		                <a href="javascript:void(0);" class="close" id="hideMsgBox"></a>
+		                <span class="txt">提示</span>
+		            </h4>
+		            <div class="pop-main">
+		                <div class="pop-con">
+		                    <span class="warn-con" id="msgContent"></span>
+		                </div>
+		                <p class="pop-footer tac">
+		                    <a class="btn btn-gray" href="javascript:void(0)" id="btnHideMsg">
+		                    <span class="btn-r">关闭</span></a>
+		                </p>
+		            </div>
+		        </div>
+		    </div>
+		</div>
+		<div id="takePictur" class="takePictureMain none">
+			<div class="pop_title clearfix">
+				<span class="fl">拍照校验</span>
+				<span class="fr bg_icon close clo_s"></span>
+			</div>
+			<div class="contentArea">
+				<div class="webcamArea fl">
+					<div id="webcam"></div>
+				</div>
+				<div class="canvasArea">
+					<canvas id="canvas" width="240" height="180" class="canvasBg"></canvas>
+				</div>
+				<div class="btnArea fl">
+					<div class="btnDiv">
+						<div class="takePicBtn" id="btn-pho"></div>
+					</div>
+					<div>
+						<span class="takePicturBtn">提交</span>
+					</div>
+				</div>
+			</div>
+	</div>
+	<div id="takePictur_last" class="takePictureMain none">
+			<div class="contentArea">
+				<div class="webcamArea fl">
+					<div id="webcam_2"></div>
+				</div>
+				<div class="canvasArea">
+					<canvas id="canvas_2" width="320" height="240" class="canvasBg"></canvas>
+				</div>
+				<div class="btnArea fl">
+					<div class="btnDiv">
+						<div class="takePicBtn" id="btn-pho_2"></div>
+					</div>
+				</div>
+			</div>
+	</div>
+	<p id="succee_tip" class="none"></p>
+		<!-- 考试监控，拍照弹出框
+		<div class="cameraMonitoring none">
+			
+		</div>
+		 -->
+		<!--[if !IE]>交卷的时候提示<![endif]-->
+		<div class="none" id="confirm_dialog" style="position: absolute; z-index:11;">
+		   
+		</div>
+		<!-- 
+		-->
+		<script type="text/javascript" async="" defer="" src="./开始作答_files/piwik.js.下载"></script><script src="./开始作答_files/jquery-1.11.1.min.js.下载" type="text/javascript"></script>
+		<script src="./开始作答_files/main_url.js.下载" type="text/javascript"></script>
+		<script src="./开始作答_files/avalon.js.下载" type="text/javascript"></script>
+		<script src="./开始作答_files/public.js.下载"></script>
+		<script src="./开始作答_files/common.js.下载"></script>
+		<script src="./开始作答_files/public.js.下载"></script>
+	   	<script src="./开始作答_files/ueditor.config.js.下载" type="text/javascript" charset="utf-8"></script>
+	    <script src="./开始作答_files/ueditor.all.js.下载" type="text/javascript" charset="utf-8"> </script>
+	    <script src="./开始作答_files/zh-cn.js.下载" type="text/javascript" charset="utf-8"></script>
+		<script src="./开始作答_files/StuDefaultPostUrl.js.下载"></script>
+		<script src="./开始作答_files/dialog.js.下载"></script>
+		<script src="./开始作答_files/jquery.webcam.min.js.下载"></script>
+		<!-- 公式插件 -->
+		<script src="./开始作答_files/addKityFormulaDialog.js.下载" type="text/javascript" charset="utf-8"></script>
+		<script src="./开始作答_files/getKfContent.js.下载" type="text/javascript" charset="utf-8"></script>
+		<script src="./开始作答_files/defaultFilterFix.js.下载" type="text/javascript" charset="utf-8"></script>
+		<!-- 弹框 -->
+		<script src="./开始作答_files/AllTipDiaolog.js.下载"></script>
+		<script src="./开始作答_files/detail_dialog.js.下载"></script>
+		<script src="./开始作答_files/UniversityStart.js.下载"></script>
+		 
+		<!-- Piwik -->
+		<script type="text/javascript">
+			  var _paq = _paq || [];
+			  _paq.push(['trackPageView']);
+			  _paq.push(['enableLinkTracking']);
+			  (function() {
+			    var u="//piwik.chinaedu.net/";
+			    _paq.push(['setTrackerUrl', u+'piwik.php']);
+			    _paq.push(['setSiteId', 5]);
+			    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+			    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			  })();
+		</script>
+		<noscript>&lt;p&gt;&lt;img src="//piwik.chinaedu.net/piwik.php?idsite=5" style="border:0;" alt="" /&gt;&lt;/p&gt;</noscript>
+		<!-- End Piwik Code -->
+		
+		<!-- 
+		 
+		<script src="../../jquery-1.11.1.min.js" type="text/javascript" ></script>
+		<script src="../../main_url.js" type="text/javascript" ></script>
+		<script src="../../avalon.js" type="text/javascript" ></script>
+		<script src="../../common.js"></script>
+		<script src="../js/public.js"></script>
+	   	<script src="../../ueditorjsp/ueditor.config.js" type="text/javascript" charset="utf-8" ></script>
+	    <script src="../../ueditorjsp/ueditor.all.js"  type="text/javascript" charset="utf-8" > </script>
+	    <script src="../../ueditorjsp/lang/zh-cn/zh-cn.js" type="text/javascript" charset="utf-8" ></script>
+		<script src="../js/StuDefaultPostUrl.js"></script>
+		<script src="../js/dialog.js"></script>
+		<script src="../js/UniversityStart.js"></script>
+		-->
+	
+
+</body></html>
