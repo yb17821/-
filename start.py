@@ -22,7 +22,12 @@ browser = Chrome('D:\webdriver\chromedriver.exe')
 browser.get('http://jwstu.cmjnu.com.cn:8080/')
 
 while True:
-    go = input('go?:')
+    print('''选项
+        1)自动点击答案（若答案库没有该题，则提示还没做过这道题）
+        2）读取并保存答案（提交试卷之后，选择此项可将所有题的答案保存到答案库）
+        3）退出程序
+		''')
+    go = input('选择:')
     if go == '1':
         browser.switch_to_window(browser.window_handles[-1])
         page = browser.page_source
@@ -105,7 +110,7 @@ while True:
 
         json.dump(ans_dic, open('daan2.txt', 'w', encoding='utf-8'), ensure_ascii=False)
 
-    elif go == 'n':
+    elif go == '3':
 	
         browser.quit()
         break
